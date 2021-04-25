@@ -1,0 +1,11 @@
+
+h	java:S116"NRename this field "GPA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªï¥‡ûÿÿÿÿ
+o	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ú×øÿÿÿÿ8›Î‹¬/
+v
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁøÓ”8›Î‹¬/
+{
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ…ìÃÿÿÿÿÿ8¥ÛŠ¬/
+b	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä³Ğ÷
+l	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£°M8›Î‹¬/
+m	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïûä8›Î‹¬/
+o	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«—äûúÿÿÿÿ8›Î‹¬/

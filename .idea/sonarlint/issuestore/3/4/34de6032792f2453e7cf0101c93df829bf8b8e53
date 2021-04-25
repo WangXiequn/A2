@@ -1,0 +1,7 @@
+
+l	java:S116 "RRename this field "IDField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÃúàøÿÿÿÿ
+v	java:S116"\Rename this field "CreditEarnedField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îà»˜ÿÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'address.util.DateUtil'.(¬Ã”Îÿÿÿÿÿ8îí˜/
+j	java:S116,"URename this field "GPAPattern" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁßÆÇ
+m	java:S116"SRename this field "GPAField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŞ—Èûÿÿÿÿ

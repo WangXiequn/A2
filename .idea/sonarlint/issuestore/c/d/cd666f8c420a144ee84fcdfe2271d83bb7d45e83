@@ -1,0 +1,27 @@
+
+f
+java:S11921"IDefine a constant instead of duplicating this literal "Birthday" 3 times.(×ƒâã8Â®/
+s	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı²„¸ıÿÿÿÿ8‰ª­/
+]
+java:S1117‚"?Rename "personTable" which hides the field declared at line 47.(±¬¸×8È¶À¦/
+h
+java:S11921"KDefine a constant instead of duplicating this literal "Department" 3 times.(×ƒâã8Â®/
+b
+java:S1117"?Rename "personTable" which hides the field declared at line 47.(ŞâŠÊıÿÿÿÿ8Áù¬/
+v
+java:S1192Û"SDefine a constant instead of duplicating this literal "No Person Selected" 3 times.(Êõëıøÿÿÿÿ8•‘ÖŸ/
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä´…³ıÿÿÿÿ8‰ª­/
+d
+java:S11921"GDefine a constant instead of duplicating this literal "Gender" 3 times.(×ƒâã8Â®/
+n
+java:S1104-"SMake mainApp a static final constant or non-public and provide accessors if needed.(İå§æùÿÿÿÿ
+m	java:S116&"SRename this field "GPALabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•™°›ûÿÿÿÿ
+k
+java:S11921"NDefine a constant instead of duplicating this literal "Credit Earned" 3 times.(×ƒâã8Â®/
+p
+java:S1192Ú"MDefine a constant instead of duplicating this literal "No Selection" 3 times.(²²©³üÿÿÿÿ8•‘ÖŸ/
+r	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı²„¸ıÿÿÿÿ8Â®/
+l	java:S116"RRename this field "IDLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‚­øÿÿÿÿ
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä´…³ıÿÿÿÿ8Â®/
+ˆ
+java:S1192Ü"eDefine a constant instead of duplicating this literal "Please select a person in the table." 3 times.(Â„ÏŒúÿÿÿÿ8•‘ÖŸ/

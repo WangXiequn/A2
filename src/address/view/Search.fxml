@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="311.0" prefWidth="482.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="address.view.SearchController">
+   <children>
+      <Label layoutX="14.0" layoutY="14.0" prefHeight="28.0" prefWidth="56.0" text="Search" />
+      <Label layoutX="27.0" layoutY="73.0" prefHeight="15.0" prefWidth="212.0" text="Please input the content to search" />
+      <TextField fx:id="textField" layoutX="109.0" layoutY="168.0" prefHeight="23.0" prefWidth="194.0" />
+      <Button layoutX="221.0" layoutY="228.0" mnemonicParsing="false" onAction="#handleNext" text="next" />
+   </children>
+</AnchorPane>
